@@ -16,12 +16,12 @@ This simple Python program simulates a Magic 8-Ball, a popular toy used for fort
 
 ### Running the Program
 
-1. **Save the code** to a file, for example, `magic8ball.py`.
+1. **Save the code** to a file, for example, `magic_8_ball.py`.
 2. **Open a terminal** or command prompt.
-3. **Navigate** to the directory where the `magic8ball.py` file is saved.
+3. **Navigate** to the directory where the `magic_8_ball.py` file is saved.
 4. **Run the program** by typing:
    ```bash
-   python magic8ball.py
+   python magic_8_ball.py
    ```
 
 ### Code Explanation
